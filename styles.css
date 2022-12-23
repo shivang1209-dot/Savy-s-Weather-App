@@ -9,8 +9,7 @@ a
 }
 img
 {
-    margin-top: 100px;
-    margin-left: 500px;
+	align-items:center;
 }
 h1
 {
@@ -18,6 +17,5 @@ h1
 }
 iframe
 {
-    margin-left: 400px;
-    margin-top: 20px;
+	align-items:center;
 }
