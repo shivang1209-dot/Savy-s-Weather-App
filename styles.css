@@ -1,0 +1,23 @@
+body
+{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+a
+{
+    text-decoration: none;
+}
+img
+{
+    margin-top: 100px;
+    margin-left: 500px;
+}
+h1
+{
+    text-align: center;
+}
+iframe
+{
+    margin-left: 400px;
+    margin-top: 20px;
+}
